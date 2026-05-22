@@ -60,6 +60,7 @@
   - [Fetching Data using GraphQL Queries with Angular & Apollo Tutorial](https://www.howtographql.com/angular-apollo/2-queries-loading-links)
   - [(Video) Using GraphQL with Angular](https://www.youtube.com/watch?v=-ONW7mDg0-o)
   - [(Video) Faster modern apps with Angular and GraphQL](https://www.youtube.com/watch?v=Xx39bv-5ojA)
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Boilerplates and Example Apps
 
